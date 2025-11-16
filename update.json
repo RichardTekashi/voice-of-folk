@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/RichardTekashi/voice-of-folk/releases/download/1.0.3/VoiceOfFolk.exe",
-  "changelog": "- добавлена поддержка API-KEY вместе IAM token\n(не нужно менять каждые 12 часов)\n- доработана страница \"Запись голоса\", но еще не готова"
+  "version": "1.0.4",
+  "url": "https://github.com/RichardTekashi/voice-of-folk/releases/download/1.0.4/voice_of_folk_ultimate_final_with_model.exe",
+  "changelog": "- изменена страница \"Перевод файлов\""
 }
