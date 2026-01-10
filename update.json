@@ -1,5 +1,5 @@
 {
-  "version": "3.1",
-  "url": "https://github.com/RichardTekashi/voice-of-folk/releases/download/3.1/VoiceOfFolk.exe",
-  "changelog": "Глобальное обновление!\nПриложение портировано на C#: ускорена работа и многое другое!"
+  "version": "3.2",
+  "url": "https://github.com/RichardTekashi/voice-of-folk/releases/download/3.2/VoiceOfFolk.exe",
+  "changelog": "Добавлена поддержка старой структуры базы"
 }
