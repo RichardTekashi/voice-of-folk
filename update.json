@@ -1,5 +1,5 @@
 {
-  "version": "3.4",
-  "url": "https://github.com/RichardTekashi/voice-of-folk/releases/download/3.4/VoiceOfFolk.exe",
-  "changelog": "- база перенесена на облачное хранилище\n- исправлена ошибка при попытке запустить обработку"
+  "version": "3.5",
+  "url": "https://github.com/RichardTekashi/voice-of-folk/releases/download/3.5/VoiceOfFolk.exe",
+  "changelog": "- исправлена ошибка при загрузке large модели\n- добавлена нумерация файлов (как и ранее)\n- добавлена защита от случайно замены папки (если папка с результатом обработки уже существует, ее предложит заменить)\n- добавлена кнопка \"Отмена\" при скачивании моделей, а также исправлена визуальная часть"
 }
